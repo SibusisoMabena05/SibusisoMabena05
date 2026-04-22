@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sbue_05
 
-<!--
-**SibusisoMabena05/SibusisoMabena05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Software Development Student  
+🚀 Passionate about coding, problem-solving, and building cool stuff  
+📍 South Africa  
+🎯 Goal: Become a professional Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Studying IT in Software Development  
+- 🌱 Currently learning: Java, Kotlin, Databases & System Design  
+- 🔥 Interested in: App Development, Web Development, and Software Engineering  
+- 💡 I enjoy turning ideas into real working systems  
+- ⚡ Fun fact: I’m always experimenting with new tech  
+
+---
+
+## 🛠️ Tech Stack
+```bash
+💻 Languages: Java | Kotlin | SQL | HTML | CSS
+🗄️ Database: MySQL
+🔧 Tools: Git | GitHub | IntelliJ IDEA | VS Code
+📚 Currently Learning: System Analysis & Design
