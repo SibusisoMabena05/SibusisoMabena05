@@ -7,7 +7,7 @@ Hi, I'm Sbue_05
 
 ---
 
-🧑‍💻 About Me
+ About Me
 - 🎓 Studying IT in Software Development  
 - 🌱 Currently learning: Java, Kotlin, Databases & System Design  
 - 🔥 Interested in: App Development, Web Development, and Software Engineering  
