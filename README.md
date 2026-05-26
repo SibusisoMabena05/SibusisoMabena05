@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sibusiso+Mabena;3rd+Year+Software+Dev+Student;Cyber+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sibusiso+Mabena;3rd+Year+Software+Dev+%40+RIU;Cyber+Security+Enthusiast;Building+%7C+Breaking+%7C+Learning" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="wave gif"/>
 
 </div>
 
@@ -8,7 +12,7 @@
 
 <div align="center">
 
-**Rosebank International University · Faculty of IT · Software Development**
+**Rosebank International University &nbsp;·&nbsp; Faculty of IT &nbsp;·&nbsp; Software Development**
 
 </div>
 
@@ -16,17 +20,17 @@
 
 ### About Me
 
-I'm a 3rd year Software Development student with a primary focus on Cyber Security. I enjoy building across web and mobile platforms, while developing a deeper understanding of how systems can be secured and exploited responsibly.
+I'm a 3rd year Software Development student at Rosebank International University. My primary focus is **Cyber Security** — understanding how systems are built, and more importantly, how they can be broken and hardened. I also work across web and mobile development, building practical projects while expanding my security knowledge.
 
 ---
 
 ### Focus Areas
 
-| Area | Level |
-|---|---|
-| Cyber Security | Primary — long-term career direction |
-| Web Development | Frontend & backend |
-| Mobile Development | Android native |
+| Area | Priority | Direction |
+|---|---|---|
+| Cyber Security | Primary | Long-term career goal |
+| Web Development | Secondary | Frontend & backend |
+| Mobile Development | Secondary | Android native (Kotlin) |
 
 ---
 
@@ -45,18 +49,32 @@ I'm a 3rd year Software Development student with a primary focus on Cyber Securi
 
 ---
 
+### Currently Working On
+
+```python
+status = {
+    "learning"  : ["Ethical Hacking", "Network Security", "OWASP Top 10", "Linux"],
+    "building"  : ["Web applications", "Android apps with Kotlin"],
+    "exploring" : ["CTF challenges", "Penetration Testing basics"],
+    "goal"      : "Land a role in Cyber Security post-graduation"
+}
+```
+
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SibusisoMabena05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" height="160" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SibusisoMabena05&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="160" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=555555" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SibusisoMabena05&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=555555" height="160" alt="GitHub Streak"/>
 
 </div>
 
@@ -64,28 +82,30 @@ I'm a 3rd year Software Development student with a primary focus on Cyber Securi
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SibusisoMabena05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
-### Currently Working On
+### In The Terminal
 
-```python
-status = {
-    "learning"  : ["Ethical Hacking", "Network Security", "OWASP Top 10"],
-    "building"  : ["Web applications", "Android apps"],
-    "goal"      : "Cyber Security role post-graduation"
-}
-```
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6dHJ4dXl3ZzVlMmN4bGZidGtkZ3k2ZmJreGloaThiMHlzdXJheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+</div>
 
 ---
 
-### Connect
+### Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/SibusisoMabena05)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -94,6 +114,12 @@ status = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d4ff&style=flat-square&label=Profile+Views)
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" alt="security gif"/>
+
+*"The quieter you become, the more you are able to hear."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SibusisoMabena05&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
