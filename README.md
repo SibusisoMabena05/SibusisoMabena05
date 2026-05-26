@@ -1,4 +1,4 @@
-Hi, I'm Sbue_05
+Hi, I'm Sibusiso Mabena
 
 💻 IT Software Development Student  
 🚀 Passionate about coding, problem-solving, and building cool stuff  
