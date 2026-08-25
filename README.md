@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**Rosebank International University &nbsp;·&nbsp; Faculty of IT &nbsp;·&nbsp; Software Development**
+**Rosebank International Sou Africa &nbsp;·&nbsp; Faculty of IT &nbsp;·&nbsp; Software Development**
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ### About Me
 
-I'm a 3rd year Software Development student at Rosebank International University. My primary focus is **Cyber Security** — understanding how systems are built, and more importantly, how they can be broken and hardened. I also work across web and mobile development, building practical projects while expanding my security knowledge.
+I'm a Final year Software Development student at Rosebank International South Africa. My primary focus is **Cyber Security** — understanding how systems are built, and more importantly, how they can be broken and hardened. I also work across web and mobile development, building practical projects while expanding my security knowledge.
 
 ---
 
@@ -104,9 +104,9 @@ status = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sibusiso Mabena)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/SibusisoMabena05)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sibusisomabena05@gmail.com)
 
 </div>
 
