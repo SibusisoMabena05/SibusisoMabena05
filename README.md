@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**Rosebank International South Africa &nbsp;·&nbsp; Faculty of IT &nbsp;·&nbsp; Software evelopment**
+**Rosebank International South Africa &nbsp;·&nbsp; Faculty of IT &nbsp;·&nbsp; Software Development**
 
 </div>
 
